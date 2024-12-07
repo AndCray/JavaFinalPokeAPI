@@ -6,3 +6,5 @@
 	The program now works really well
 	
 	Here is the Github link:   https://github.com/AndCray/JavaFinalPokeAPI.git
+	
+	Here is the youtube video link for it: https://youtu.be/zD0Sgd6Ms3s
